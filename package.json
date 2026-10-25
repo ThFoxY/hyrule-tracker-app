@@ -29,7 +29,15 @@
   },
   "devDependencies": {
     "@types/react": "~19.2.2",
+    "husky": "^9.1.7",
+    "lint-staged": "^17.6.0",
+    "oxfmt": "^0.74.0",
+    "oxlint": "^1.89.0",
+    "oxlint-tsgolint": "^7.0.2005",
     "typescript": "~6.0.3"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,mjs,cjs}": "oxlint"
   },
   "scripts": {
     "start": "expo start",
@@ -37,7 +45,11 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "lint": "expo lint"
+    "lint": "oxlint",
+    "lint:fix": "oxlint --fix",
+    "format": "oxfmt",
+    "format:check": "oxfmt --check",
+    "prepare": "husky"
   },
   "private": true
 }
