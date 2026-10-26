@@ -2,11 +2,10 @@
 
 # 🛡️ Hyrule Tracker App ⚔️
 
-Offline app tracker for **100 % completion** of a **2017 open-world adventure game** with shrines and tiny creatures hidding in the **wild** 👀. Personal project, not published on any store *<sub>hehe</sub>*
-
+Offline app tracker for **100 % completion** of a **2017 open-world adventure game** with shrines and tiny creatures hidding in the **wild** 👀. Personal project, not published on any store _<sub>hehe</sub>_
 
 > **Not affiliated to Nintendo in any form.** No copyrighted asset is included in
-> this repository. You will have to import them yourself, **lazy *f\*ck*!**
+> this repository. You will have to import them yourself, **lazy _f\*ck_!**
 
 </div>
 
@@ -37,4 +36,4 @@ asset error.
 | `npm run format:check` | Oxfmt, check only          |
 | `npx tsc --noEmit`     | Typecheck                  |
 
-Do not use `npx expo lint`: it installs ESLint, which is *sloweeerrr*.
+Do not use `npx expo lint`: it installs ESLint, which is _sloweeerrr_.
