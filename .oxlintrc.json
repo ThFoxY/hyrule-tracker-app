@@ -13,6 +13,7 @@
   },
   "rules": {
     "eslint/eqeqeq": "error",
+    "react/react-in-jsx-scope": "off",
     "react/rules-of-hooks": "error",
     "react/exhaustive-deps": "error",
     "import/no-cycle": "error",

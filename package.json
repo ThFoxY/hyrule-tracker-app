@@ -1,7 +1,19 @@
 {
   "name": "hyrule-tracker-app",
-  "main": "expo-router/entry",
   "version": "1.0.0",
+  "private": true,
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "lint": "oxlint",
+    "lint:fix": "oxlint --fix",
+    "format": "oxfmt",
+    "format:check": "oxfmt --check",
+    "prepare": "husky"
+  },
   "dependencies": {
     "@expo/ui": "~57.0.26",
     "expo": "~57.0.31",
@@ -38,18 +50,5 @@
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx,mjs,cjs}": "oxlint"
-  },
-  "scripts": {
-    "start": "expo start",
-    "reset-project": "node ./scripts/reset-project.js",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web",
-    "lint": "oxlint",
-    "lint:fix": "oxlint --fix",
-    "format": "oxfmt",
-    "format:check": "oxfmt --check",
-    "prepare": "husky"
-  },
-  "private": true
+  }
 }

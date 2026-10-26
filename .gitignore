@@ -36,7 +36,8 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-example
+# local map image (not redistributable)
+/assets/map/
 
 # generated native folders
 /ios
