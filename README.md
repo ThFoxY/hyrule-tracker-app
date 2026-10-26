@@ -21,11 +21,23 @@ npx expo start
 The map image is not part of the repository. Provide your own file at:
 
 ```
-assets/map/hyrule.jpg
+assets/map/hyrule.png
 ```
 
 The folder is gitignored. Without this file, the build fails with a missing
 asset error.
+
+## Reference data
+
+`src/data/shrines.json` (120 base-game shrines) is generated, not typed by
+hand, and validated by a Zod schema at startup. Only facts are kept (id, name,
+region, trial, position in game units).
+
+| Source                                                         | Used for                      |
+| -------------------------------------------------------------- | ----------------------------- |
+| [botw-tools](https://github.com/MrCheeze/botw-tools)           | Id, name, position            |
+| [botw-checklist](https://github.com/jwodder/botw-checklist)    | Region, trial                 |
+| [botw-object-map](https://github.com/MrCheeze/botw-object-map) | Cross-check of positions only |
 
 ## Scripts
 

@@ -1,0 +1,1205 @@
+{
+  "schemaVersion": 1,
+  "shrines": [
+    {
+      "id": "Dungeon000",
+      "name": "Tah Muhl",
+      "region": "Eldin",
+      "trial": "Passing the Flame",
+      "position": {
+        "x": 2300.66,
+        "z": -941.32
+      }
+    },
+    {
+      "id": "Dungeon001",
+      "name": "Jee Noh",
+      "region": "Wasteland",
+      "trial": "On the Move",
+      "position": {
+        "x": -1801.49,
+        "z": 2397.65
+      }
+    },
+    {
+      "id": "Dungeon002",
+      "name": "Sah Dahaj",
+      "region": "Eldin",
+      "trial": "Power of Fire",
+      "position": {
+        "x": 2665.21,
+        "z": -1580.75
+      }
+    },
+    {
+      "id": "Dungeon003",
+      "name": "Hawa Koth",
+      "region": "Wasteland",
+      "trial": "The Current Solution",
+      "position": {
+        "x": -4847.04,
+        "z": 3772.63
+      }
+    },
+    {
+      "id": "Dungeon004",
+      "name": "Zalta Wa",
+      "region": "Ridgeland",
+      "trial": "Two Orbs to Guide You",
+      "position": {
+        "x": -1431.65,
+        "z": -596.6
+      }
+    },
+    {
+      "id": "Dungeon005",
+      "name": "Ne'ez Yohma",
+      "region": "Lanayru",
+      "trial": "Pushing Power",
+      "position": {
+        "x": 3321.88,
+        "z": -515.86
+      }
+    },
+    {
+      "id": "Dungeon006",
+      "name": "Yah Rin",
+      "region": "Faron",
+      "trial": "A Weighty Decision",
+      "position": {
+        "x": 2833.36,
+        "z": 3310.97
+      }
+    },
+    {
+      "id": "Dungeon007",
+      "name": "Bosh Kala",
+      "region": "Dueling Peaks",
+      "trial": "The Wind Guides You",
+      "position": {
+        "x": 87.02,
+        "z": 1658.71
+      }
+    },
+    {
+      "id": "Dungeon008",
+      "name": "Bareeda Naag",
+      "region": "Tabantha",
+      "trial": "Cannon",
+      "position": {
+        "x": -3608.41,
+        "z": -1514.72
+      }
+    },
+    {
+      "id": "Dungeon009",
+      "name": "Owa Daim",
+      "region": "Great Plateau",
+      "trial": "Stasis Trial",
+      "position": {
+        "x": -928.57,
+        "z": 2321.73
+      }
+    },
+    {
+      "id": "Dungeon010",
+      "name": "Kay Noh",
+      "region": "Wasteland",
+      "trial": "Power of Electricity",
+      "position": {
+        "x": -2775.17,
+        "z": 2304.22
+      }
+    },
+    {
+      "id": "Dungeon011",
+      "name": "Monya Toma",
+      "region": "Woodland",
+      "trial": "Drawing Parabolas",
+      "position": {
+        "x": -1488.6,
+        "z": -1473.03
+      }
+    },
+    {
+      "id": "Dungeon012",
+      "name": "Voo Lota",
+      "region": "Tabantha",
+      "trial": "The Winding Route",
+      "position": {
+        "x": -4015.65,
+        "z": -1723.7
+      }
+    },
+    {
+      "id": "Dungeon013",
+      "name": "Katosa Aug",
+      "region": "Akkala",
+      "trial": "Katosa Aug Apparatus",
+      "position": {
+        "x": 4294.48,
+        "z": -2730.95
+      }
+    },
+    {
+      "id": "Dungeon014",
+      "name": "Kam Urog",
+      "region": "Hateno",
+      "trial": "Trial of Passage",
+      "position": {
+        "x": 2503.12,
+        "z": 1496.0
+      }
+    },
+    {
+      "id": "Dungeon015",
+      "name": "Toto Sah",
+      "region": "Dueling Peaks",
+      "trial": "Toto Sah Apparatus",
+      "position": {
+        "x": 1846.24,
+        "z": 2475.38
+      }
+    },
+    {
+      "id": "Dungeon016",
+      "name": "Rucco Maag",
+      "region": "Lanayru",
+      "trial": "Five Flames",
+      "position": {
+        "x": 3333.5,
+        "z": 404.5
+      }
+    },
+    {
+      "id": "Dungeon017",
+      "name": "Shee Vaneer",
+      "region": "Dueling Peaks",
+      "trial": "Twin Memories",
+      "position": {
+        "x": 1257.94,
+        "z": 1956.15
+      }
+    },
+    {
+      "id": "Dungeon018",
+      "name": "Rok Uwog",
+      "region": "Hebra",
+      "trial": "Power of Reach",
+      "position": {
+        "x": -2378.01,
+        "z": -3223.74
+      }
+    },
+    {
+      "id": "Dungeon019",
+      "name": "Dow Na'eh",
+      "region": "Hateno",
+      "trial": "Three Boxes",
+      "position": {
+        "x": 2691.5,
+        "z": 1331.21
+      }
+    },
+    {
+      "id": "Dungeon020",
+      "name": "Sheem Dagoze",
+      "region": "Ridgeland",
+      "trial": "Moving in Parallel",
+      "position": {
+        "x": -1893.3,
+        "z": 91.5
+      }
+    },
+    {
+      "id": "Dungeon021",
+      "name": "Toh Yahsa",
+      "region": "Ridgeland",
+      "trial": "Buried Secrets",
+      "position": {
+        "x": -2268.1,
+        "z": -903.3
+      }
+    },
+    {
+      "id": "Dungeon022",
+      "name": "Keo Ruug",
+      "region": "Woodland",
+      "trial": "Fateful Stars",
+      "position": {
+        "x": 474.69,
+        "z": -2167.82
+      }
+    },
+    {
+      "id": "Dungeon023",
+      "name": "Sheh Rata",
+      "region": "Lanayru",
+      "trial": "Speed of Light",
+      "position": {
+        "x": 1507.0,
+        "z": -378.0
+      }
+    },
+    {
+      "id": "Dungeon024",
+      "name": "Mezza Lo",
+      "region": "Hateno",
+      "trial": "Ancient Trifecta",
+      "position": {
+        "x": 2628.1,
+        "z": 372.73
+      }
+    },
+    {
+      "id": "Dungeon025",
+      "name": "Kayra Mah",
+      "region": "Eldin",
+      "trial": "Greedy Hill",
+      "position": {
+        "x": 2066.43,
+        "z": -2038.98
+      }
+    },
+    {
+      "id": "Dungeon026",
+      "name": "Shae Mo'sah",
+      "region": "Eldin",
+      "trial": "Swinging Flames",
+      "position": {
+        "x": 1762.58,
+        "z": -2577.15
+      }
+    },
+    {
+      "id": "Dungeon027",
+      "name": "Rota Ooh",
+      "region": "Central",
+      "trial": "Passing of the Gates",
+      "position": {
+        "x": -1563.46,
+        "z": 1310.16
+      }
+    },
+    {
+      "id": "Dungeon028",
+      "name": "Shora Hah",
+      "region": "Eldin",
+      "trial": "Blue Flame",
+      "position": {
+        "x": 1539.44,
+        "z": -3114.37
+      }
+    },
+    {
+      "id": "Dungeon029",
+      "name": "Hila Rao",
+      "region": "Dueling Peaks",
+      "trial": "Drifting",
+      "position": {
+        "x": 847.0,
+        "z": 845.0
+      }
+    },
+    {
+      "id": "Dungeon030",
+      "name": "Joloo Nah",
+      "region": "Gerudo",
+      "trial": "Joloo Nah Apparatus",
+      "position": {
+        "x": -2004.01,
+        "z": 1674.26
+      }
+    },
+    {
+      "id": "Dungeon031",
+      "name": "Mo'a Keet",
+      "region": "Eldin",
+      "trial": "Metal Makes a Path",
+      "position": {
+        "x": 2717.62,
+        "z": -1162.74
+      }
+    },
+    {
+      "id": "Dungeon032",
+      "name": "Dako Tah",
+      "region": "Wasteland",
+      "trial": "Electric Path",
+      "position": {
+        "x": -3316.51,
+        "z": 2162.73
+      }
+    },
+    {
+      "id": "Dungeon033",
+      "name": "Daka Tuss",
+      "region": "Lanayru",
+      "trial": "Sunken Scoop",
+      "position": {
+        "x": 1601.0,
+        "z": 462.2
+      }
+    },
+    {
+      "id": "Dungeon034",
+      "name": "Kah Yah",
+      "region": "Faron",
+      "trial": "Quick Thinking",
+      "position": {
+        "x": 3437.23,
+        "z": 3316.46
+      }
+    },
+    {
+      "id": "Dungeon035",
+      "name": "Akh Va'quot",
+      "region": "Tabantha",
+      "trial": "Windmills",
+      "position": {
+        "x": -3658.62,
+        "z": -1760.67
+      }
+    },
+    {
+      "id": "Dungeon036",
+      "name": "Sho Dantu",
+      "region": "Gerudo",
+      "trial": "Two Bombs",
+      "position": {
+        "x": -3953.02,
+        "z": 1626.26
+      }
+    },
+    {
+      "id": "Dungeon037",
+      "name": "Shae Loya",
+      "region": "Ridgeland",
+      "trial": "Aim for the Moment",
+      "position": {
+        "x": -2924.88,
+        "z": -424.45
+      }
+    },
+    {
+      "id": "Dungeon038",
+      "name": "Oman Au",
+      "region": "Great Plateau",
+      "trial": "Magnesis Trial",
+      "position": {
+        "x": -673.25,
+        "z": 1513.01
+      }
+    },
+    {
+      "id": "Dungeon039",
+      "name": "Myahm Agana",
+      "region": "Hateno",
+      "trial": "Myahm Agana Apparatus",
+      "position": {
+        "x": 3387.62,
+        "z": 2214.92
+      }
+    },
+    {
+      "id": "Dungeon040",
+      "name": "Kaam Ya'tak",
+      "region": "Central",
+      "trial": "Trial of Power",
+      "position": {
+        "x": -967.8,
+        "z": 715.89
+      }
+    },
+    {
+      "id": "Dungeon041",
+      "name": "Ja Baij",
+      "region": "Great Plateau",
+      "trial": "Bomb Trial",
+      "position": {
+        "x": -449.48,
+        "z": 1990.06
+      }
+    },
+    {
+      "id": "Dungeon042",
+      "name": "Rin Oyaa",
+      "region": "Hebra",
+      "trial": "Directing the Wind",
+      "position": {
+        "x": -1720.42,
+        "z": -2556.14
+      }
+    },
+    {
+      "id": "Dungeon043",
+      "name": "Kuh Takkar",
+      "region": "Gerudo",
+      "trial": "Melting Ice Hazard",
+      "position": {
+        "x": -3083.42,
+        "z": 1222.01
+      }
+    },
+    {
+      "id": "Dungeon044",
+      "name": "Shee Venath",
+      "region": "Dueling Peaks",
+      "trial": "Twin Memories",
+      "position": {
+        "x": 1233.33,
+        "z": 1853.87
+      }
+    },
+    {
+      "id": "Dungeon045",
+      "name": "Ha Dahamar",
+      "region": "Dueling Peaks",
+      "trial": "The Water Guides",
+      "position": {
+        "x": 1696.85,
+        "z": 1918.58
+      }
+    },
+    {
+      "id": "Dungeon046",
+      "name": "Shada Naw",
+      "region": "Hebra",
+      "trial": "Red Giveaway",
+      "position": {
+        "x": -2996.76,
+        "z": -3222.51
+      }
+    },
+    {
+      "id": "Dungeon047",
+      "name": "Ree Dahee",
+      "region": "Dueling Peaks",
+      "trial": "Timing is Critical",
+      "position": {
+        "x": 1273.15,
+        "z": 1807.77
+      }
+    },
+    {
+      "id": "Dungeon048",
+      "name": "Ze Kasho",
+      "region": "Akkala",
+      "trial": "Ze Kasho Apparatus",
+      "position": {
+        "x": 3027.31,
+        "z": -1667.85
+      }
+    },
+    {
+      "id": "Dungeon049",
+      "name": "Kaya Wan",
+      "region": "Lanayru",
+      "trial": "Shields from Water",
+      "position": {
+        "x": 826.36,
+        "z": 187.43
+      }
+    },
+    {
+      "id": "Dungeon050",
+      "name": "Shai Utoh",
+      "region": "Faron",
+      "trial": "Halt the Tilt",
+      "position": {
+        "x": 1590.23,
+        "z": 3624.57
+      }
+    },
+    {
+      "id": "Dungeon051",
+      "name": "Maka Rah",
+      "region": "Hebra",
+      "trial": "Steady Thy Heart",
+      "position": {
+        "x": -4068.6,
+        "z": -2512.5
+      }
+    },
+    {
+      "id": "Dungeon052",
+      "name": "Gee Ha'rah",
+      "region": "Hebra",
+      "trial": "Tandem",
+      "position": {
+        "x": -2385.2,
+        "z": -2272.76
+      }
+    },
+    {
+      "id": "Dungeon053",
+      "name": "Sha Warvo",
+      "region": "Tabantha",
+      "trial": "Path of Hidden Winds",
+      "position": {
+        "x": -3823.1,
+        "z": -2208.01
+      }
+    },
+    {
+      "id": "Dungeon054",
+      "name": "Ka'o Makagh",
+      "region": "Lake",
+      "trial": "Metal Doors Open the Way",
+      "position": {
+        "x": 523.29,
+        "z": 3526.27
+      }
+    },
+    {
+      "id": "Dungeon055",
+      "name": "Dunba Taag",
+      "region": "Hebra",
+      "trial": "Build and Release",
+      "position": {
+        "x": -2832.47,
+        "z": -1578.04
+      }
+    },
+    {
+      "id": "Dungeon056",
+      "name": "Mirro Shaz",
+      "region": "Woodland",
+      "trial": "Tempered Power",
+      "position": {
+        "x": 1245.92,
+        "z": -1187.53
+      }
+    },
+    {
+      "id": "Dungeon057",
+      "name": "Wahgo Katta",
+      "region": "Central",
+      "trial": "Metal Connections",
+      "position": {
+        "x": 344.91,
+        "z": 1007.03
+      }
+    },
+    {
+      "id": "Dungeon058",
+      "name": "Mogg Latan",
+      "region": "Ridgeland",
+      "trial": "Synced Swing",
+      "position": {
+        "x": -2297.43,
+        "z": 460.73
+      }
+    },
+    {
+      "id": "Dungeon059",
+      "name": "Kah Okeo",
+      "region": "Tabantha",
+      "trial": "Wind Guide",
+      "position": {
+        "x": -4133.6,
+        "z": -416.52
+      }
+    },
+    {
+      "id": "Dungeon060",
+      "name": "Daqo Chisay",
+      "region": "Wasteland",
+      "trial": "The Whole Picture",
+      "position": {
+        "x": -3792.88,
+        "z": 2807.05
+      }
+    },
+    {
+      "id": "Dungeon061",
+      "name": "Shoda Sah",
+      "region": "Faron",
+      "trial": "Impeccable Timing",
+      "position": {
+        "x": 1792.71,
+        "z": 2983.75
+      }
+    },
+    {
+      "id": "Dungeon062",
+      "name": "Sha Gehma",
+      "region": "Hebra",
+      "trial": "Shift and Lock",
+      "position": {
+        "x": -1673.17,
+        "z": -3758.45
+      }
+    },
+    {
+      "id": "Dungeon063",
+      "name": "Kema Zoos",
+      "region": "Wasteland",
+      "trial": "A Delayed Puzzle",
+      "position": {
+        "x": -4673.53,
+        "z": 1967.79
+      }
+    },
+    {
+      "id": "Dungeon064",
+      "name": "Daqa Koh",
+      "region": "Eldin",
+      "trial": "Stalled Flight",
+      "position": {
+        "x": 2041.4,
+        "z": -2329.1
+      }
+    },
+    {
+      "id": "Dungeon065",
+      "name": "Keh Namut",
+      "region": "Great Plateau",
+      "trial": "Cryonis Trial",
+      "position": {
+        "x": -1437.27,
+        "z": 1995.57
+      }
+    },
+    {
+      "id": "Dungeon066",
+      "name": "Kah Mael",
+      "region": "Lanayru",
+      "trial": "Drop and Rise",
+      "position": {
+        "x": 4700.4,
+        "z": -1301.19
+      }
+    },
+    {
+      "id": "Dungeon067",
+      "name": "Qua Raym",
+      "region": "Eldin",
+      "trial": "A Balanced Approach",
+      "position": {
+        "x": 1818.98,
+        "z": -1520.44
+      }
+    },
+    {
+      "id": "Dungeon068",
+      "name": "Ya Naga",
+      "region": "Lake",
+      "trial": "Shatter the Heavens",
+      "position": {
+        "x": -334.35,
+        "z": 2597.28
+      }
+    },
+    {
+      "id": "Dungeon069",
+      "name": "Ishto Soh",
+      "region": "Lake",
+      "trial": "Bravery's Grasp",
+      "position": {
+        "x": -985.29,
+        "z": 3564.99
+      }
+    },
+    {
+      "id": "Dungeon070",
+      "name": "Soh Kofi",
+      "region": "Lanayru",
+      "trial": "A Minor Test of Strength",
+      "position": {
+        "x": 2238.42,
+        "z": -293.04
+      }
+    },
+    {
+      "id": "Dungeon071",
+      "name": "Pumaag Nitae",
+      "region": "Lake",
+      "trial": "A Minor Test of Strength",
+      "position": {
+        "x": 559.73,
+        "z": 2990.26
+      }
+    },
+    {
+      "id": "Dungeon072",
+      "name": "Dah Kaso",
+      "region": "Central",
+      "trial": "A Minor Test of Strength",
+      "position": {
+        "x": -1724.4,
+        "z": 1713.45
+      }
+    },
+    {
+      "id": "Dungeon073",
+      "name": "Katah Chuki",
+      "region": "Central",
+      "trial": "A Minor Test of Strength",
+      "position": {
+        "x": -637.65,
+        "z": -346.77
+      }
+    },
+    {
+      "id": "Dungeon074",
+      "name": "Noya Neha",
+      "region": "Central",
+      "trial": "A Minor Test of Strength",
+      "position": {
+        "x": -952.99,
+        "z": -629.92
+      }
+    },
+    {
+      "id": "Dungeon075",
+      "name": "Dah Hesho",
+      "region": "Akkala",
+      "trial": "A Minor Test of Strength",
+      "position": {
+        "x": 3899.52,
+        "z": -1302.81
+      }
+    },
+    {
+      "id": "Dungeon076",
+      "name": "Sasa Kai",
+      "region": "Gerudo",
+      "trial": "A Modest Test of Strength",
+      "position": {
+        "x": -3561.8,
+        "z": 1960.5
+      }
+    },
+    {
+      "id": "Dungeon077",
+      "name": "Ke'nai Shakah",
+      "region": "Akkala",
+      "trial": "A Modest Test of Strength",
+      "position": {
+        "x": 4193.58,
+        "z": -856.57
+      }
+    },
+    {
+      "id": "Dungeon078",
+      "name": "Mijah Rokee",
+      "region": "Ridgeland",
+      "trial": "A Modest Test of Strength",
+      "position": {
+        "x": -2741.82,
+        "z": 227.86
+      }
+    },
+    {
+      "id": "Dungeon079",
+      "name": "Namika Ozz",
+      "region": "Central",
+      "trial": "A Modest Test of Strength",
+      "position": {
+        "x": 763.7,
+        "z": -809.94
+      }
+    },
+    {
+      "id": "Dungeon080",
+      "name": "Shoqa Tatone",
+      "region": "Lake",
+      "trial": "A Modest Test of Strength",
+      "position": {
+        "x": 92.95,
+        "z": 3839.73
+      }
+    },
+    {
+      "id": "Dungeon081",
+      "name": "Muwo Jeem",
+      "region": "Faron",
+      "trial": "A Modest Test of Strength",
+      "position": {
+        "x": 3656.74,
+        "z": 3307.58
+      }
+    },
+    {
+      "id": "Dungeon082",
+      "name": "Chaas Qeta",
+      "region": "Hateno",
+      "trial": "A Major Test of Strength",
+      "position": {
+        "x": 4009.84,
+        "z": 2988.66
+      }
+    },
+    {
+      "id": "Dungeon083",
+      "name": "Tena Ko'sah",
+      "region": "Tabantha",
+      "trial": "A Major Test of Strength",
+      "position": {
+        "x": -3445.53,
+        "z": -453.5
+      }
+    },
+    {
+      "id": "Dungeon084",
+      "name": "Tutsuwa Nima",
+      "region": "Akkala",
+      "trial": "A Major Test of Strength",
+      "position": {
+        "x": 3776.61,
+        "z": -2705.31
+      }
+    },
+    {
+      "id": "Dungeon085",
+      "name": "Kema Kosassa",
+      "region": "Gerudo",
+      "trial": "A Major Test of Strength",
+      "position": {
+        "x": -4658.19,
+        "z": 902.57
+      }
+    },
+    {
+      "id": "Dungeon086",
+      "name": "Goma Asaagh",
+      "region": "Hebra",
+      "trial": "A Major Test of Strength",
+      "position": {
+        "x": -2822.17,
+        "z": -2872.25
+      }
+    },
+    {
+      "id": "Dungeon087",
+      "name": "Mozo Shenno",
+      "region": "Hebra",
+      "trial": "A Major Test of Strength",
+      "position": {
+        "x": -3632.7,
+        "z": -3042.14
+      }
+    },
+    {
+      "id": "Dungeon088",
+      "name": "Hia Miu",
+      "region": "Hebra",
+      "trial": "A Major Test of Strength",
+      "position": {
+        "x": -4450.35,
+        "z": -3803.52
+      }
+    },
+    {
+      "id": "Dungeon089",
+      "name": "Saas Ko'sah",
+      "region": "Central",
+      "trial": "A Major Test of Strength",
+      "position": {
+        "x": -146.55,
+        "z": -1159.63
+      }
+    },
+    {
+      "id": "Dungeon090",
+      "name": "Suma Sahma",
+      "region": "Wasteland",
+      "trial": "Suma Sahma's Blessing",
+      "position": {
+        "x": -1418.4,
+        "z": 3448.0
+      }
+    },
+    {
+      "id": "Dungeon091",
+      "name": "Gorae Torr",
+      "region": "Eldin",
+      "trial": "Gorae Torr's Blessing",
+      "position": {
+        "x": 2666.0,
+        "z": -3460.5
+      }
+    },
+    {
+      "id": "Dungeon092",
+      "name": "Maag No'rah",
+      "region": "Ridgeland",
+      "trial": "Maag No'rah's Blessing",
+      "position": {
+        "x": -1947.4,
+        "z": -1452.8
+      }
+    },
+    {
+      "id": "Dungeon093",
+      "name": "Raqa Zunzo",
+      "region": "Wasteland",
+      "trial": "Raqa Zunzo's Blessing",
+      "position": {
+        "x": -3810.5,
+        "z": 3127.2
+      }
+    },
+    {
+      "id": "Dungeon094",
+      "name": "Tho Kayu",
+      "region": "Wasteland",
+      "trial": "Tho Kayu's Blessing",
+      "position": {
+        "x": -4824.47,
+        "z": 2841.69
+      }
+    },
+    {
+      "id": "Dungeon095",
+      "name": "Kuhn Sidajj",
+      "region": "Woodland",
+      "trial": "Kuhn Sidajj's Blessing",
+      "position": {
+        "x": 17.6,
+        "z": -1942.9
+      }
+    },
+    {
+      "id": "Dungeon096",
+      "name": "Qukah Nata",
+      "region": "Faron",
+      "trial": "Qukah Nata's Blessing",
+      "position": {
+        "x": 2007.0,
+        "z": 3285.0
+      }
+    },
+    {
+      "id": "Dungeon097",
+      "name": "Korgu Chideh",
+      "region": "Faron",
+      "trial": "Korgu Chideh's Blessing",
+      "position": {
+        "x": 4738.24,
+        "z": 3769.02
+      }
+    },
+    {
+      "id": "Dungeon098",
+      "name": "Daag Chokah",
+      "region": "Woodland",
+      "trial": "Daag Chokah's Blessing",
+      "position": {
+        "x": -26.43,
+        "z": -2458.62
+      }
+    },
+    {
+      "id": "Dungeon099",
+      "name": "Ta'loh Naeg",
+      "region": "Dueling Peaks",
+      "trial": "Ta'loh Naeg's Teaching",
+      "position": {
+        "x": 1821.7,
+        "z": 871.13
+      }
+    },
+    {
+      "id": "Dungeon100",
+      "name": "Keeha Yoog",
+      "region": "Gerudo",
+      "trial": "Keeha Yoog's Blessing",
+      "position": {
+        "x": -3853.4,
+        "z": 716.7
+      }
+    },
+    {
+      "id": "Dungeon101",
+      "name": "Dagah Keek",
+      "region": "Lanayru",
+      "trial": "Dagah Keek's Blessing",
+      "position": {
+        "x": 3149.7,
+        "z": -416.8
+      }
+    },
+    {
+      "id": "Dungeon102",
+      "name": "Zuna Kai",
+      "region": "Akkala",
+      "trial": "Zuna Kai's Blessing",
+      "position": {
+        "x": 3323.01,
+        "z": -3423.86
+      }
+    },
+    {
+      "id": "Dungeon103",
+      "name": "Dila Maag",
+      "region": "Wasteland",
+      "trial": "Dila Maag's Blessing",
+      "position": {
+        "x": -1795.01,
+        "z": 3463.07
+      }
+    },
+    {
+      "id": "Dungeon104",
+      "name": "Lanno Kooh",
+      "region": "Hebra",
+      "trial": "Lanno Kooh's Blessing",
+      "position": {
+        "x": -2636.37,
+        "z": -2060.36
+      }
+    },
+    {
+      "id": "Dungeon105",
+      "name": "Tu Ka'loh",
+      "region": "Akkala",
+      "trial": "Tu Ka'loh's Blessing",
+      "position": {
+        "x": 4655.0,
+        "z": -3705.5
+      }
+    },
+    {
+      "id": "Dungeon106",
+      "name": "Maag Halan",
+      "region": "Woodland",
+      "trial": "Maag Halan's Blessing",
+      "position": {
+        "x": 835.26,
+        "z": -2415.87
+      }
+    },
+    {
+      "id": "Dungeon107",
+      "name": "Misae Suma",
+      "region": "Wasteland",
+      "trial": "Misae Suma's Blessing",
+      "position": {
+        "x": -2968.2,
+        "z": 3778.4
+      }
+    },
+    {
+      "id": "Dungeon108",
+      "name": "Ketoh Wawai",
+      "region": "Woodland",
+      "trial": "Ketoh Wawai's Blessing",
+      "position": {
+        "x": 287.4,
+        "z": -3120.0
+      }
+    },
+    {
+      "id": "Dungeon109",
+      "name": "Ritaag Zumo",
+      "region": "Akkala",
+      "trial": "Ritaag Zumo's Blessing",
+      "position": {
+        "x": 4522.73,
+        "z": -2127.28
+      }
+    },
+    {
+      "id": "Dungeon110",
+      "name": "Korsh O'hu",
+      "region": "Wasteland",
+      "trial": "Korsh O'hu's Blessing",
+      "position": {
+        "x": -2691.8,
+        "z": 2814.4
+      }
+    },
+    {
+      "id": "Dungeon111",
+      "name": "Tawa Jinn",
+      "region": "Faron",
+      "trial": "Tawa Jinn's Blessing",
+      "position": {
+        "x": 2632.74,
+        "z": 2831.77
+      }
+    },
+    {
+      "id": "Dungeon112",
+      "name": "Lakna Rokee",
+      "region": "Dueling Peaks",
+      "trial": "Lakna Rokee's Blessing",
+      "position": {
+        "x": 2032.62,
+        "z": 967.44
+      }
+    },
+    {
+      "id": "Dungeon113",
+      "name": "Shae Katha",
+      "region": "Lake",
+      "trial": "Shae Katha's Blessing",
+      "position": {
+        "x": 868.85,
+        "z": 2322.94
+      }
+    },
+    {
+      "id": "Dungeon114",
+      "name": "Shai Yota",
+      "region": "Lanayru",
+      "trial": "Shai Yota's Blessing",
+      "position": {
+        "x": 4245.28,
+        "z": 254.43
+      }
+    },
+    {
+      "id": "Dungeon115",
+      "name": "Rona Kachta",
+      "region": "Woodland",
+      "trial": "Rona Kachta's Blessing",
+      "position": {
+        "x": -1088.16,
+        "z": -2661.51
+      }
+    },
+    {
+      "id": "Dungeon116",
+      "name": "Qaza Tokki",
+      "region": "Hebra",
+      "trial": "Qaza Tokki's Blessing",
+      "position": {
+        "x": -825.0,
+        "z": -3535.0
+      }
+    },
+    {
+      "id": "Dungeon117",
+      "name": "Jitan Sa'mi",
+      "region": "Hateno",
+      "trial": "Jitan Sa'mi's Blessing",
+      "position": {
+        "x": 3875.43,
+        "z": 1311.81
+      }
+    },
+    {
+      "id": "Dungeon118",
+      "name": "To Quomo",
+      "region": "Hebra",
+      "trial": "To Quomo's Blessing",
+      "position": {
+        "x": -4023.12,
+        "z": -3711.64
+      }
+    },
+    {
+      "id": "Dungeon119",
+      "name": "Tahno O'ah",
+      "region": "Hateno",
+      "trial": "Tahno O'ah's Blessing",
+      "position": {
+        "x": 4181.78,
+        "z": 1686.73
+      }
+    }
+  ]
+}
